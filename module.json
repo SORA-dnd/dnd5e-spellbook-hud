@@ -1,0 +1,19 @@
+{
+  "id": "dnd5e-spellbook-hud",
+  "title": "DnD5e Spellbook HUD",
+  "description": "Spellbook HUD ",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Sora"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "systems": ["dnd5e"],
+  "esmodules": ["dnd5e-spellbook-hud.js"],
+  "styles": [],
+  "packs": []
+}
