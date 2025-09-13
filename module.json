@@ -1,7 +1,7 @@
 {
   "id": "dnd5e-spellbook-hud",
   "title": "DnD5e Spellbook HUD",
-  "description": "Spellbook HUD ",
+  "description": "Provides an immersive, highly customizable two-page book interface to replace the default D&D 5E spell list. Features mouse-wheel turning, TOC jumps, and custom transition pages to significantly enhance the spellcaster experience.",
   "version": "1.0.0",
   "authors": [
     {
@@ -15,5 +15,7 @@
   "systems": ["dnd5e"],
   "esmodules": ["dnd5e-spellbook-hud.js"],
   "styles": [],
-  "packs": []
+  "packs": [],
+  "manifest": "https://github.com/SORA-dnd/dnd5e-spellbook-hud/releases/download/v1.0.0/module.json",
+  "download": "https://github.com/SORA-dnd/dnd5e-spellbook-hud/releases/download/v1.0.0/dnd5e-spellbook-hud.zip"
 }
